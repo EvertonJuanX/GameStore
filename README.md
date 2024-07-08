@@ -1,2 +1,2 @@
-# GameStore
-Criação de um projeto utilizando Bootstrap
+# Game Store
+Projeto de uma loja de jogos digitais utilizando Bootstrap
